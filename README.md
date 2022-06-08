@@ -24,7 +24,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - :telescope: I’m interning as a Web Engineer and contributing to frontend for building web applications.
 - :seedling: Currently getting myself closer to Smart Contract, Solidity & Web3 development.
 - :zap: In my free time, I love to make a youtube & tiktok video about CyberSecurity, Cryptocurrency & Web Development
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alifzuhairi/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-alifzuhairi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alifzuhairi/)
 
 ---
 
@@ -44,10 +44,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 </div>
 
 ---
-
-### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alifzuhairi)](https://github.com/alifzuhairi/github-readme-stats)
-
 
 
 
